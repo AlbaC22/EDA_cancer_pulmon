@@ -1,0 +1,39 @@
+﻿"Año";"Periodo";"Ambos sexos";"Hombres";"Mujeres"
+"2000";"Año";"32,7";"49,3";"16,2"
+"2005";"Año";"29,5";"45,7";"13,4"
+"2010";"Año";"26,7";"42,3";"11,1"
+"2015";"Año";"24,4";"39,5";"9,3"
+"2020";"Año";"22,3";"36,7";"7,8"
+"2025";"Año";"20,4";"34,3";"6,6"
+;;;;
+;;;;
+"Métrica":"Ambos sexos"
+"Fuente":"OMS"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Métrica":"Hombres"
+"Fuente":"OMS"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Métrica":"Mujeres"
+"Fuente":"OMS"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Url":"https://www.epdata.es/evolucion-numero-usuarios-tabaco-nivel-mundial/e2d2232a-0fff-4c34-a4c0-bbe927748288"
+"Titulo":"Evolución el número de usuarios de tabaco a nivel mundial"
+"Subtitulo":"Prevalencia en su uso en personas a partir de 15 años y estimación para 2025"

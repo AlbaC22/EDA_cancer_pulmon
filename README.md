@@ -96,3 +96,51 @@ Con los datos para cada país de la UE, hemos obtenido la media de muertes para 
 
 * El cáncer ha sido históricamente masculino.
 * La tasa de mortalidad MASCULINA por cáncer de pulmón  ha disminuido desde 1990.
+* La tasa de mortalidad FEMENINA ha ido aumentando a lo largo del tiempo.
+* La brecha de género ha ido recduciéndose a lo largo del tiempo.
+
+Sabemos que el tabaquismo es la causa más importante del cáncer de pulmón y la reducción de fumadores ha tenido un impacto directo en la reducción la tasa de mortalidad de cáncer de pulmón.
+
+PERO, **¿SE CUMPLE LA HIPÓTESIS ANTERIOR PARA EL GÉNERO FEMENINO?**
+
+![pairplot](img/pairplot.png)
+![heatmap](img/heatmap.png)
+
+Existe correlación lineal y positiva (0.62) entre las muertes de hombres por cáncer de pulmón y las ventas de cigarrillos a lo largo del tiempo en Europa.
+Sin embargo, esta correlación no se cumple para las mujeres (0.037).
+
+También existe una fuerte correlación entre el tiempo y las muertes en ambos géneros, siendo más fuerte la correlación entre las mujeres (0.67)
+
+¿Cuál puede ser la explicación de esto?
+Esto podría indicar que otros factores, aparte de la venta de cigarrillos, podrían estar contribuyendo a las muertes por cáncer de pulmón en mujeres.
+
+Es posible que los hombres sean los principales compradores de cigarrillos y, por lo tanto, haya una fuerte correlación entre la venta de cigarrillos por adulto y día y las muertes por cáncer de pulmón en hombres.
+
+
+**Ahora vamos a analizar el caso de España, país que pertenece al G20 y que presenta altas tasas de tabaquismo, más altas en hombres que en mujeres.**
+
+![muertes_españa](img/muertes_totales_espana.png)
+
+![fumadores_españa](img/FUMADORES_ESPAÑA.png)
+
+Podemos ver que, a pesar de la reducción en el porcentaje de fumadoras, las muertes por cáncer de pulmón en mujeres siguen aumentando.
+
+¿Posible explicación?
+
+**Las mujeres son más susceptibles a los efectos carcinógenos del humo de tabaco que los hombres - Boehringer Ingelheim**
+
+Por lo tanto, las mujeres podrían tener un peor pronóstica en esta enfermedad.
+
+*CONCLUSIONES*
+
+* La genética representa menos del 20% en el desarrollo del cáncer de pulmón, siendo el tabaco el factor determinante.​
+
+​
+
+* En países económicamente más desarrollados hay una mayor incidencia de muertes por cáncer de pulmón.​
+
+​
+
+* A medida que pasa el tiempo y baja el % de fumadoras, el cáncer de pulmón parece afectar cada vez más a mujeres, lo cual puede ser un indicio de un pronóstico desfavorable para este género
+
+
